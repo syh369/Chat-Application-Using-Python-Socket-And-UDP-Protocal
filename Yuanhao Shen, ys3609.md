@@ -1,7 +1,7 @@
-# Yuanhao Shen, ys3609
-## CSEE4119_PA1
+# Yuanhao Shen
+## Computer Network Project
 
-For PA1, I used python as the programming language for socket programming. The libraries or packages are all pre built-in python packages, includes: json, sys, socket, and threading. 
+I used python as the programming language for socket programming. The libraries or packages are all pre built-in python packages, includes: json, sys, socket, and threading. 
 
 My application includes two classes:
 - Server
